@@ -1,2 +1,2 @@
 # Selenium
-Some code in by Selenium
+Some code by Selenium
